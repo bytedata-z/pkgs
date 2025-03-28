@@ -1,0 +1,17 @@
+{
+   "Exes" : [ "tailscale-setup-1.82.0.exe", "tailscale-setup-full-1.82.0.exe" ],
+   "ExesVersion" : "1.82.0",
+   "Installer" : {
+      "amd64.exe" : "tailscale-setup-1.82.0.exe",
+      "amd64.msi" : "tailscale-setup-1.82.0-amd64.msi",
+      "arm64.msi" : "tailscale-setup-1.82.0-arm64.msi",
+      "x86.msi" : "tailscale-setup-1.82.0-x86.msi"
+   },
+   "MSIs" : {
+      "amd64" : "tailscale-setup-1.82.0-amd64.msi",
+      "arm64" : "tailscale-setup-1.82.0-arm64.msi",
+      "x86" : "tailscale-setup-1.82.0-x86.msi"
+   },
+   "MSIsVersion" : "1.82.0",
+   "Version" : "1.82.0"
+}
